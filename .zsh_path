@@ -9,10 +9,7 @@ export PATH=/home/leif/.cargo/bin:$PATH
 ## Bin
 export PATH=/home/leif/bin:$PATH
 export PATH=/usr/local/bin:$PATH
-# export PATH=/home/leif/bin:$PATH
-# export PATH=/usr/local/bin:
 export PATH=/usr/local/sbin:$PATH
-# /usr/local/bin:
 export PATH=/usr/sbin:$PATH
 export PATH=/usr/bin:$PATH
 export PATH=/sbin:$PATH
