@@ -1,0 +1,15 @@
+# ZSH Alias
+
+alias hit="vim ~/.zshworld"
+alias sit="source ~/.zshrc"
+
+alias notes="vim ~/Documents/notes"
+alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
+alias ls="ls -AG1"
+alias h="history"
+alias now="date +%T"
+alias nowdate="date +'%m-%d-%Y'"
+alias nf="clear;neofetch"
+
+# Rust Programs
+alias cat="bat"

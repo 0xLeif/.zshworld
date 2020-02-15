@@ -1,0 +1,21 @@
+# ZSH Path
+
+## Swift
+export PATH=/usr/share/swift/usr/bin:$PATH
+## V
+export PATH=/home/leif/v:$PATH
+## Rust
+export PATH=/home/leif/.cargo/bin:$PATH
+## Bin
+export PATH=/home/leif/bin:$PATH
+export PATH=/usr/local/bin:$PATH
+# export PATH=/home/leif/bin:$PATH
+# export PATH=/usr/local/bin:
+export PATH=/usr/local/sbin:$PATH
+# /usr/local/bin:
+export PATH=/usr/sbin:$PATH
+export PATH=/usr/bin:$PATH
+export PATH=/sbin:$PATH
+export PATH=/bin:$PATH
+export PATH=/usr/games:$PATH
+export PATH=/usr/local/games:$PATH
