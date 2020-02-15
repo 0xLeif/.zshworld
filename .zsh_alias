@@ -9,6 +9,8 @@ alias h="history"
 alias now="date +%T"
 alias nowdate="date +'%m-%d-%Y'"
 alias nf="clear;neofetch"
+alias download="youtube-dl -x --audio-format mp3 -o '~/Music/new/%(title)s.%(ext)s' --yes-playlist"
 
 # Rust Programs
 alias cat="bat"
+
