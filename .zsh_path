@@ -1,5 +1,8 @@
 # ZSH Path
 
+## Functions
+export PATH=/home/leif/.zshworld/functions:$PATH
+
 ## Swift
 export PATH=/usr/share/swift/usr/bin:$PATH
 ## V

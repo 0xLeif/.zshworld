@@ -14,3 +14,5 @@ alias download="youtube-dl -x --audio-format mp3 -o '~/Music/new/%(title)s.%(ext
 # Rust Programs
 alias cat="bat"
 
+# Luke Smith
+# alias dman="man -k . | dmenu -l 30 | awk '{print $1}' | xargs -r man"
