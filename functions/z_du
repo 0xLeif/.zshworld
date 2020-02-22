@@ -1,0 +1,4 @@
+#! /bin/bash
+
+du -hs --exclude="lost+found" --exclude="TB" ~
+du -hs --exclude="lost+found" ~/TB

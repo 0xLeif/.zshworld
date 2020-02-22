@@ -19,3 +19,4 @@ export PATH=/sbin:$PATH
 export PATH=/bin:$PATH
 export PATH=/usr/games:$PATH
 export PATH=/usr/local/games:$PATH
+export PATH=/home/linuxbrew/.linuxbrew/bin:$PATH
